@@ -1,2 +1,2 @@
-# git_test-odin
+# git-test-odin
 Odin website projects
